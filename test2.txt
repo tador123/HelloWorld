@@ -1,0 +1,15 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 261C-692F
+
+ Directory of C:\Users\Tashi Dorji\Desktop\JavaProject1
+
+19-01-2022  21:56    <DIR>          .
+19-01-2022  21:07    <DIR>          ..
+19-01-2022  21:00               414 Hello.class
+19-01-2022  20:52               117 Hello.java
+19-01-2022  21:44               472 Main.class
+19-01-2022  21:07               173 Test.java
+19-01-2022  21:55               550 test1.txt
+19-01-2022  21:56                 0 test2.txt
+               6 File(s)          1,726 bytes
+               2 Dir(s)  365,760,180,224 bytes free
